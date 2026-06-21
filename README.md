@@ -60,6 +60,6 @@ Minha principal responsabilidade é construir, documentar e implantar arquitetur
 Abaixo estão os links para os artefatos gerados neste desafio:
 
 * 📄 **Documento Arquitetural:** [Link para abrir no Miro](https://miro.com/app/board/uXjVHEBGqmY=/?share_link_id=472628597186)
-* 🖼️ **Vídeo apresentação utilizando NotebookLM do Gemini:** [Assista no youtube](https://youtu.be/f6DqzgEweiw)
+* 🖼️ **Vídeo apresentação utilizando NotebookLM do Gemini:** <a href="https://youtu.be/f6DqzgEweiw" target="_blank">Assista no youtube</a>
 * 💻 **Código do MVP (.NET 10):** **Em Breve**
 * 📚 **Boas Práticas C4 Model:** O desenho arquitetural baseou-se nos padrões de relacionamento do C4, garantindo a indicação de comunicação síncrona/assíncrona, a descrição clara de todos os relacionamentos e evitando o erro clássico de deixar "componentes soltos" na arquitetura.
